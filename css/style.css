@@ -118,24 +118,6 @@ section {
 }
 
 
-#controls button {
-    background-color: #f3e7c5;
-    border: none;
-    color: #fff;
-    padding: 0.5rem 1rem;
-    margin: 0 0.2rem;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-#controls button:hover {
-    background-color: #175ca0;
-}
-
-audio {
-    width: 100%;
-    margin-top: 1rem;
-}
 
 footer {
     text-align: center;
