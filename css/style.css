@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Navigation Bar Styles */
 nav {
     background-color: #ffffff; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -17,7 +16,11 @@ nav {
     transition: color 0.3s ease; 
 }
 
-
+.portrait{
+    height: 30%;
+    margin-top: 50px;
+    margin-bottom: 800px;
+}
 
 body {
    background-color: #175ca0;
@@ -33,6 +36,14 @@ header {
     padding: 300px 20vw;
     text-align: center;
 }
+
+
+header:-webkit-scrollbar {
+    font-size: 80px; 
+    color:rgb(255, 255, 255);
+    transition: transform 2s ease, font-size 1.8s ease;
+}
+
 
 header h2 {
     font-size: 50px; 
@@ -72,7 +83,8 @@ nav ul li a {
 main {
     padding: 2rem;
     background: #fceab5 url("../images/backg.jpg") no-repeat;
-    background-size: cover;
+    background-size:cover; 
+
 }
 
 /*Defines Parent Section Formatting*/
