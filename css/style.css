@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+    background-color: #121212;
+    color: #b3b3b3;
+}
+
+header {
+    background-color: #3cb8e9;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+#playlist {
+    margin-bottom: 2rem;
+}
+
+#playlist ul {
+    list-style: none;
+    padding: 0;
+}
+
+#playlist ul li {
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+#playlist ul li:hover {
+    background-color: #333;
+}
+
+#player {
+    text-align: center;
+}
+
+#controls button {
+    background-color: #1db954;
+    border: none;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    margin: 0 0.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#controls button:hover {
+    background-color: #1ed760;
+}
+
+audio {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #902147;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
