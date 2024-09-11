@@ -6,6 +6,10 @@
 
 
 body {
+   
+    /*
+    PUT BACKGROUNDDDDDDD
+    */
       
 }
 
@@ -20,7 +24,7 @@ header {
 }
 
 header h2 {
-    font-size: 40px; 
+    font-size: 50px; 
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     color: antiquewhite;
     background-color: #175ca0;
@@ -58,8 +62,11 @@ nav ul li a {
 
 main {
     padding: 2rem;
-    
+    background: #ffffff url("../images/backg.jpg") no-repeat;
+    background-size: cover;
+    height: 100vh; 
 }
+
 /*Defines Parent Section Formatting*/
 section {
     position: relative;
