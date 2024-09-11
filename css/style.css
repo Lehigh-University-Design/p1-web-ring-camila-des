@@ -22,11 +22,6 @@ nav {
     margin-bottom: 300px;
 }
 
-.about{
-    width: 50%;
-    margin-top: 50px;
-    margin-bottom: 300px;
-}
 
 .album{
     display: flex;
@@ -105,7 +100,7 @@ nav ul li a {
 }
 
 main {
-    padding: 2rem;
+    padding: 7rem;
     background: #fceab5 url("../images/backg.jpg") no-repeat;
     background-size:cover; 
 
@@ -133,4 +128,4 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-}
+} 
