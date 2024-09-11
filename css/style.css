@@ -22,6 +22,12 @@ nav {
     margin-bottom: 300px;
 }
 
+.about{
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 300px;
+}
+
 .album{
     display: flex;
     flex-direction: row;
