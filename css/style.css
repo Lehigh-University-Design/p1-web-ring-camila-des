@@ -39,7 +39,7 @@ nav {
     position: absolute;
     color: #ffffff;
     font-size: 50px;
-    margin: 30px;
+    margin: 25px;
     text-align: center;
     padding-left: 65vw;
     display: inline-block;
@@ -50,13 +50,14 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     color: #ffffff;
-    font-size: 40px;
+    font-size: 30px;
     margin: 30px;
     text-align: center;
-    padding-left: 60vw;
+    padding-left: 58vw;
     display: inline-block;
     vertical-align: top;
     margin-top: 10vw;
+    
 }
 
 body {
