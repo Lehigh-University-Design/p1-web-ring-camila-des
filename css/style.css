@@ -41,7 +41,9 @@ nav {
     font-size: 50px;
     margin: 30px;
     text-align: center;
-    padding-left: 60vw;
+    padding-left: 65vw;
+    display: inline-block;
+
 }
 
 .biography{
@@ -54,7 +56,7 @@ nav {
     padding-left: 60vw;
     display: inline-block;
     vertical-align: top;
-    margin-top: 20vw;
+    margin-top: 10vw;
 }
 
 body {
