@@ -41,7 +41,20 @@ nav {
     font-size: 50px;
     margin: 30px;
     text-align: center;
-    padding-left: 57vw;
+    padding-left: 60vw;
+}
+
+.biography{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    color: #ffffff;
+    font-size: 40px;
+    margin: 30px;
+    text-align: center;
+    padding-left: 60vw;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20vw;
 }
 
 body {
